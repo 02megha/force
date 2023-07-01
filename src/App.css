@@ -1,0 +1,25 @@
+p{
+  text-align: center;
+  text-decoration: dashed;
+  background-color: palevioletred;
+  color: black;
+}
+li{
+  text-align: center;
+  background-color: greenyellow;
+  color: red;
+  text-transform: capitalize;
+  text-size-adjust: 80;
+
+}
+ul{
+  text-align: center;
+  color: blue;
+  text-emphasis-color: orange;
+}
+button{
+  text-align: center;
+  align-items: center;
+  text-align: center;
+  color: purple
+}
